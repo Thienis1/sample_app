@@ -1,4 +1,6 @@
 SampleApp::Application.routes.draw do
+  get "users/new"
+
 # get "page/home"
 
 # get "page/contact"
